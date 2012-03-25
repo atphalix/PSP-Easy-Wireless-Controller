@@ -1,4 +1,4 @@
-PSP Easy Wireless Controller - http://PSPEWC.blogspot.com
+PSP Easy Wireless Controller
 
 All the software which I have written are under public domain.
 

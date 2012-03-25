@@ -1,4 +1,4 @@
-PSP Easy Wireless Controller - http://PSPEWC.blogspot.com
+PSP Easy Wireless Controller
 
 The main file is pyPSPEWCServer.py. All you need to do is run this script.
 
