@@ -1,0 +1,1 @@
+All the files written by myself are under public domain. These sources in particular are in brazilian portuguese. All other sources are translated to English. If you would like me to translate it or help you with any doubt, feel free to contact me :)

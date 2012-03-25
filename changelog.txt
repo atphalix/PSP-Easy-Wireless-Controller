@@ -1,0 +1,32 @@
+PSP Easy Wireless Controller - PSPEWC
+
+29/09/2011 - v.1.2 (Client + Unix Server + Windows Server)
+
+- The PSP source was completelly rewritten.
+- Small changes in python server, which now behaves as expected when simulating mouse clicks.
+- Small changes in windows server, because some users were experiencing 'invalid string' error.
+- All sources are now included! All of the files written by myself are under public domain.
+
+01/01/2011 - v.1.1 (Client + Unix v.0.1 Python Server)
+
+- New server! I wrote a server in python to run under Unix systems! It uses the python Xlib, which is included. The new files are under the PC/unix/ folder. The server listens for intructions in two modes:
+	Keypad #1 will send regular keyboard inputs;
+	Keypad #2 will send mouse events. The analog stick controls the pointer 
+		position and the R and L-Trigger send the right and left mouse button presses.
+		Holding Select while in Keypad #2 will increase the speed of the pointer.
+
+- The way to input the server's IP on the PSP has changed. It's a little smarter now.
+- Now Start + Select will change the mode, not just Select. This way you can use Select as a button too.
+
+
+16/01/2011 - v.1.0 Final (Client + Server)
+
+- Everything was translated to English;
+- User interface was completely rewritten (it's almost decent. Also it is in English now);
+- Added support for 2 PSPs;
+- Added controls for VLC Media Player (play, pause, stop, fullscreen, volume up/down, back 10s, forward 10s);
+- Added controls for Winamp (play, pause, stop, previous song, next song, volume up/down);
+- There isn't a menu entry for some IP ranges anymore. THe first digits of the server's IP are already set, given that they are the same as the PSP's IP;
+- Several fixes/optimizations on both client/server code;
+- PLEASE report bugs/weird behaviors!
+
